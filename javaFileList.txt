@@ -54,4 +54,4 @@
 ./org/apache/log4j/spi/RepositorySelector.java
 ./org/apache/log4j/spi/RootLogger.java
 ./org/apache/log4j/spi/ThrowableInformation.java
-./org/apache/log4j/spi/VectorWriter.jav
+./org/apache/log4j/spi/VectorWriter.java
