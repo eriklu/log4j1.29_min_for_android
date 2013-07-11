@@ -10,7 +10,3 @@ log4j1.29_min_for_android<br/>
 android-logging-log4j项目地址：<br/>
 http://code.google.com/p/android-logging-log4j/<br/>
 
-1111
-2222
-3333
-4444
